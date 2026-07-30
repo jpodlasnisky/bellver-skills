@@ -1,6 +1,6 @@
 ---
 name: mei-salvar-guia
-description: Move/copia o PDF da guia do MEI já baixado do navegador para a pasta de destino escolhida pelo usuário, renomeando o arquivo com o nome da empresa, a competência e a data de vencimento da guia. Use depois que a skill mei-emitir-das já tiver gerado e baixado o PDF — isoladamente, ou como último passo do fluxo orquestrado pela skill mei-guia-pipeline.
+description: Move/copia o PDF da guia do MEI já baixado do navegador para a pasta relatorios neste repositorio, renomeando o arquivo com o nome da empresa, a competência e a data de vencimento da guia. Use depois que a skill mei-emitir-das já tiver gerado e baixado o PDF — isoladamente, ou como último passo do fluxo orquestrado pela skill mei-guia-pipeline.
 ---
 
 # mei-salvar-guia
