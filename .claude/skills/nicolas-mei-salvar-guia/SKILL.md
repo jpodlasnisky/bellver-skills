@@ -26,16 +26,13 @@ pode redirecionar o destino sem precisar gerar a guia de novo.
 
 ## Passo a passo
 
-1. **Confirme `pasta_destino` com o usuário** se ela não tiver sido
-   informada de forma explícita e inequívoca.
-
-2. **Sanitize `nome_empresa`** antes de usar em um nome de arquivo:
+1. **Sanitize `nome_empresa`** antes de usar em um nome de arquivo:
    remova os caracteres inválidos em caminhos do Windows (`\ / : * ? " < >
    |`), colapse espaços repetidos em um só, e retire espaços/pontos no
    início ou fim do resultado. Não abrevie nem reformate o nome além
    disso.
 
-3. **Monte o nome do arquivo final**:
+2. **Monte o nome do arquivo final**:
    `<nome_empresa sanitizado> - DAS <competencia com traço em vez de
    barra> - vencimento <data_vencimento com traço em vez de barra>.pdf`
    (ex.: nome_empresa `64.262.737 NICOLAS MINATO BELLVER`, competência
