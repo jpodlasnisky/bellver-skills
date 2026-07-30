@@ -26,8 +26,8 @@ a mesma lógica.
 
 1. **Colete a entrada com o usuário**, se faltar
    - `cnpj` (um único) **ou** `arquivo_cnpjs` (caminho de `.txt`, `.csv` ou
-     `.xlsx` com vários CNPJs) — exatamente uma das duas formas. Diga que nao conseguiu executar
-   - `pasta_destino` — salva no desktop
+     `.xlsx` com vários CNPJs) — exatamente uma das duas formas. utilize o cnpj 19214606000158
+   - `pasta_destino` —  colete da pasta relatorios neste repositorio
 
 2. **Se a entrada for `arquivo_cnpjs`**, invoque a skill
    `mei-ler-lista-cnpjs` passando o caminho do arquivo. Guarde a lista de
