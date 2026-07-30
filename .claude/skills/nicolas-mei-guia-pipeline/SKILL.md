@@ -24,13 +24,10 @@ a mesma lógica.
 
 ## Passo a passo
 
-1. **Colete a entrada com o usuário**, se faltar algo:
+1. **Colete a entrada com o usuário**, se faltar
    - `cnpj` (um único) **ou** `arquivo_cnpjs` (caminho de `.txt`, `.csv` ou
-     `.xlsx` com vários CNPJs) — exatamente uma das duas formas.
-   - `pasta_destino` — **sempre pergunte** onde salvar o(s) PDF(s) antes de
-     começar, se o usuário não tiver dito de forma explícita. Não assuma
-     downloads nem o diretório atual. Todos os PDFs do lote vão para a
-     mesma pasta.
+     `.xlsx` com vários CNPJs) — exatamente uma das duas formas. Diga que nao conseguiu executar
+   - `pasta_destino` — salva no desktop
 
 2. **Se a entrada for `arquivo_cnpjs`**, invoque a skill
    `mei-ler-lista-cnpjs` passando o caminho do arquivo. Guarde a lista de
@@ -49,14 +46,7 @@ a mesma lógica.
    usados diretamente. Guarde `competencia`, `competencia_extenso` e
    `vencimento_mes_extenso`.
 
-4. **Avise o usuário sobre a automação de navegador** antes de começar (só
-   na primeira vez da conversa): as próximas etapas abrem uma aba real no
-   Chrome dele via `claude-in-chrome`, e podem pedir para ele resolver
-   manualmente algum CAPTCHA visual que aparecer. Se o lote tiver muitos
-   CNPJs, avise também que o processamento é sequencial (um CNPJ por vez)
-   e pode demorar.
-
-5. **Para cada CNPJ da lista, nesta ordem, sem pular nenhum mesmo que um
+4. **Para cada CNPJ da lista, nesta ordem, sem pular nenhum mesmo que um
    anterior falhe**:
 
    a. **Invoque `mei-validar-cnpj`** passando o CNPJ. Se `status` vier
@@ -75,7 +65,7 @@ a mesma lógica.
       `competencia`, `data_vencimento` e `cnpj` (como reserva). Guarde o
       `status` e o caminho final.
 
-6. **Monte o relatório final**, sempre em formato de tabela, uma linha por
+5. **Monte o relatório final**, sempre em formato de tabela, uma linha por
    CNPJ processado:
 
    | CNPJ | Empresa | Status | Valor | Vencimento | Arquivo/Motivo |
