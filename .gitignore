@@ -1,0 +1,18 @@
+# Nada de dado real entra aqui. Estes padrões são uma segunda barreira —
+# a primeira é a regra do CLAUDE.md e a sua cabeça.
+*.xlsx
+*.xls
+*.pdf
+*.ofx
+*.sped
+*.txt.real
+dados-reais/
+producao/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local do Claude Code (permissões da sua máquina não valem para os outros)
+.claude/settings.local.json

@@ -1,0 +1,11 @@
+data,documento,historico,tipo,valor
+2026-06-02,REC 1201,Faturamento loja - quinzena 1,receita,142300.00
+2026-06-05,NFSe 7712,Frete Via Norte - junho,despesa,3480.00
+2026-06-09,DOC 8801,Compra de mercadorias - fornecedor Atacadao Sul,despesa,68450.00
+2026-06-12,NFSe 7745,Limpeza predial - junho,despesa,2200.00
+2026-06-12,NFSe 7746,Limpeza predial - junho (reemissao),despesa,2200.00
+2026-06-16,REC 1202,Faturamento loja - quinzena 2,receita,151780.40
+2026-06-18,DOC 8815,Folha de pagamento,despesa,54200.00
+2026-06-20,DOC 8820,Energia eletrica,despesa,7930.11
+2026-06-25,DOC 8830,Compra de mercadorias - fornecedor Atacadao Sul,despesa,71200.00
+2026-06-30,DOC 8840,Aluguel,despesa,22000.00

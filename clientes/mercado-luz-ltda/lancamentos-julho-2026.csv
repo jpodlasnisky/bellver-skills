@@ -1,0 +1,11 @@
+data,documento,historico,tipo,valor
+2026-07-01,NF 7760,Compra de mercadorias - Atacado Central,despesa,41200.00
+2026-07-03,REC 1180,Vendas do mes - mercadorias,receita,78450.90
+2026-07-05,DOC 8801,Pagamento energia eletrica,despesa,3120.45
+2026-07-08,NF 7768,Servico de instalacao de prateleiras - cobrado do cliente,receita,4800.00
+2026-07-12,DOC 8815,Folha de pagamento - julho,despesa,22400.00
+2026-07-14,NF 7772,Devolucao de mercadoria avariada,despesa,-1250.00
+2026-07-17,REC 1181,Vendas do mes - mercadorias (segunda quinzena),receita,71330.15
+2026-07-20,DOC 8830,Aluguel do galpao,despesa,12800.00
+2026-07-24,NF 7781,Compra de mercadorias - Atacado Central,despesa,38970.00
+2026-07-29,DOC 8844,Frete sobre vendas,despesa,5610.30

@@ -1,0 +1,11 @@
+data,documento,historico,tipo,valor
+2026-06-09,NC 0455,Servicos - revisao e alinhamento,receita,1380.00
+2026-06-09,NC 0455,Pecas aplicadas,receita,760.00
+2026-06-11,DOC 3301,Compra de pecas - Autopecas Central,despesa,3900.00
+2026-06-14,NC 0458,Servicos diversos - semana,receita,5240.00
+2026-06-18,DOC 3310,Folha de pagamento,despesa,11800.00
+2026-06-21,NC 0461,Servicos - troca de embreagem,receita,2400.00
+2026-06-21,NC 0461,Pecas aplicadas,receita,1990.00
+2026-06-24,DOC 3318,Aluguel do galpao,despesa,6200.00
+2026-06-27,NC 0463,Servicos e pecas (nao separado),receita,3150.00
+2026-06-30,DOC 3325,Energia eletrica,despesa,2410.00

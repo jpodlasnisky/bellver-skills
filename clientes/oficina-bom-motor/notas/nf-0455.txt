@@ -1,0 +1,15 @@
+OFICINA BOM MOTOR SERVICOS AUTOMOTIVOS LTDA - CNPJ 33.444.555/0001-66
+NOTA CONJUGADA N. 0455 - EMISSAO 09/06/2026
+CLIENTE: Antonio Ferreira - CPF 000.111.222-33
+
+SERVICOS PRESTADOS
+  Revisao completa motor ............ R$ 1.200,00
+  Alinhamento e balanceamento ....... R$   180,00
+  SUBTOTAL SERVICOS ................. R$ 1.380,00
+
+PECAS APLICADAS (venda de mercadoria)
+  Kit correia dentada ............... R$   640,00
+  Filtro de oleo x2 ................. R$   120,00
+  SUBTOTAL PECAS .................... R$   760,00
+
+TOTAL DA NOTA ....................... R$ 2.140,00

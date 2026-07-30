@@ -1,0 +1,10 @@
+*** NOTA FISCAL ELETRONICA - DANFE (texto extraido / OCR de baixa qualidade) ***
+EMITENTE: EMBALAGENS RIO BRANC0 LT0A   CNPJ 66.777.8?8/0001-99
+DESTINATARIO: PADARIA D0 ZE C0MERCI0 DE ALIMENT0S ME   CNPJ 11.222.333/0001-44
+NUMER0 2090   SERIE 1   EMISSA0 2?/06/2026
+--------------------------------------------------
+ITEM  DESCRICA0                QTD    UNIT     T0TAL
+1     SAC0 KRAFT 1KG MIL       10    89,0O      890,00
+2     CAIXA PIZZA 30CM CX100    ?    64,00    ????????
+--------------------------------------------------
+VAL0R T0TAL DA N0TA ............ 1.5??,00

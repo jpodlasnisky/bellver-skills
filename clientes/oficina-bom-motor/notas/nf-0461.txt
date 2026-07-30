@@ -1,0 +1,14 @@
+OFICINA BOM MOTOR SERVICOS AUTOMOTIVOS LTDA - CNPJ 33.444.555/0001-66
+NOTA CONJUGADA N. 0461 - EMISSAO 21/06/2026
+CLIENTE: Transportadora Beta Ltda - CNPJ 99.000.111/0001-33
+
+SERVICOS PRESTADOS
+  Troca de embreagem ................ R$ 2.400,00
+  SUBTOTAL SERVICOS ................. R$ 2.400,00
+
+PECAS APLICADAS (venda de mercadoria)
+  Kit embreagem completo ............ R$ 1.850,00
+  Fluido hidraulico ................. R$   140,00
+  SUBTOTAL PECAS .................... R$ 1.990,00
+
+TOTAL DA NOTA ....................... R$ 4.390,00

@@ -1,0 +1,13 @@
+NOTA FISCAL DE SERVICO ELETRONICA (NFS-e)
+Prestador.......: LIMPA TUDO CONSERVACAO E LIMPEZA ME
+CNPJ Prestador..: 88.999.000/0001-22
+Tomador.........: MERCADO LUZ LTDA
+CNPJ Tomador....: 22.333.444/0001-55
+Numero da NFS-e.: 7745
+Data de emissao.: 12/06/2026
+Discriminacao...: Servico de limpeza predial - junho/2026
+Valor do servico: R$ 2.200,00
+ISS retido......: SIM
+Aliquota ISS....: 5,00%
+Valor do ISS....: R$ 110,00
+Valor liquido...: R$ 2.090,00
