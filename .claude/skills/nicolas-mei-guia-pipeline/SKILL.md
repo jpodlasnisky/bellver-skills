@@ -9,11 +9,11 @@ Esta skill não faz nada sozinha — ela é o maestro que chama, em sequência,
 as skills especializadas:
 
 ```
-(mei-ler-lista-cnpjs, só se a entrada for um arquivo)
+(nicolas-mei-ler-lista-cnpjs, só se a entrada for um arquivo)
         ↓
-mei-calcular-competencia (uma vez só, para todo o lote)
+nicolas-mei-calcular-competencia (uma vez só, para todo o lote)
         ↓
-para cada CNPJ: mei-validar-cnpj → mei-emitir-das → mei-salvar-guia
+para cada CNPJ: nicolas-mei-validar-cnpj → nicolas-mei-emitir-das → nicolas-mei-salvar-guia
 ```
 
 Cada uma cuida de uma responsabilidade única (leitura de arquivo,
